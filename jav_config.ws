@@ -1,7 +1,7 @@
-title=Blurite Alpha
+title=Asgard
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=http://127.0.0.1/
-cachedir=blurite
+cachedir=asgard
 storebase=0
 initial_jar=gamepack_2506588.jar
 initial_class=client.class
@@ -54,7 +54,7 @@ param=25=236
 param=5=1
 param=6=0
 param=2=https://payments.jagex.com/
-param=17=https://client.blurite.io/world_list.ws
+param=17=https://github.com/Leif-Yggdrasil/hosting/raw/refs/heads/main/world_list.ws
 param=20=https://social.auth.jagex.com/
 param=11=https://auth.jagex.com/
 param=19=196515767263-1oo20deqm6edn7ujlihl6rpadk9drhva.apps.googleusercontent.com
