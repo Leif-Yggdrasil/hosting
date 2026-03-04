@@ -66,5 +66,5 @@ param=9=ElZAIrq5NpLRagHtlXUh--jKkPXpOTphHdd*HiX*rzoKK3fO5XqE4w
 param=16=false
 param=22=https://auth.runescape.com/
 param=15=0
-param=12=255
+param=12=1
 param=10=5
