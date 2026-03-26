@@ -1,6 +1,6 @@
 title=Oblivion
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://oldschool321.runescape.com/
+codebase=127.0.0.1
 cachedir=oblivion
 storebase=0
 initial_jar=gamepack_3253724.jar
