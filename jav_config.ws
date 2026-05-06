@@ -46,7 +46,7 @@ msg=new_version=Update available! You can now launch the client directly from th
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
 param=10=5
-param=25=237
+param=25=238
 param=28=https://account.jagex.com/
 param=22=https://auth.runescape.com/
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
