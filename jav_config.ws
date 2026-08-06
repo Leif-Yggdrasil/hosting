@@ -1,7 +1,7 @@
-title=Oblivion
+title=Asgard
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
 codebase=http://127.0.0.1/
-cachedir=oblivion
+cachedir=asgard
 storebase=0
 initial_jar=gamepack_3253724.jar
 initial_class=client.class
@@ -46,7 +46,7 @@ msg=new_version=Update available! You can now launch the client directly from th
 msg=new_version_linktext=Open OldSchool Homepage
 msg=new_version_link=http://oldschool.runescape.com/
 param=10=5
-param=25=238
+param=25=240
 param=28=https://account.jagex.com/
 param=22=https://auth.runescape.com/
 param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
